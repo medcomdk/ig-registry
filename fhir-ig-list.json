@@ -8361,28 +8361,6 @@
           "url" : "http://medcomfhir.dk/ig/homecareobservationtestscripts/1.0.0-draft"
         }
       ]
-    },
-    {
-      "name" : "EHMI Terminology",
-      "category" : "Terminology",
-      "npm-name" : "medcom.ehmi.dk.terminology",
-      "description" : "The DK EHMI Terminology IG",
-      "authority" : "MedCom",
-      "country" : "dk",
-      "history" : "http://medcomehmi.dk/ig/terminology/history.html",
-      "language" : ["en"],
-      "canonical" : "http://medcomehmi.dk/ig/terminology",
-      "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-ehmi-terminology",
-      "product" : ["fhir"],
-      "editions" : [
-        {
-          "name" : "Release 1.x.x Draft",
-          "ig-version" : "1.0.0-draft",
-          "package" : "medcom.ehmi.dk.terminology#1.0.0-draft",
-          "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomehmi.dk/ig/terminology/1.0.0-draft"
-        }
-      ]
     }
   ]
 }
