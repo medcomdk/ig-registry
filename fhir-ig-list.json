@@ -5768,10 +5768,10 @@
       "editions" : [
         {
           "name" : "Release 1.x.x Draft",
-          "ig-version" : "1.1.0-trial-use",
-          "package" : "medcom.fhir.dk.homecareobservation#1.1.0-trial-use",
+          "ig-version" : "1.1.1-trial-use",
+          "package" : "medcom.fhir.dk.homecareobservation#1.1.1-trial-use",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/homecareobservation/1.1.0-trial-use"
+          "url" : "http://medcomfhir.dk/ig/homecareobservation/1.1.1-trial-use"
         }
       ]
     },
