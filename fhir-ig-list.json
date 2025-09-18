@@ -8377,10 +8377,10 @@
       "editions" : [
         {
           "name" : "Release 1.x.x Draft",
-          "ig-version" : "1.0.0-draft",
-          "package" : "dk.ehmi.terminology#1.0.0-draft",
+          "ig-version" : "1.0.1-draft",
+          "package" : "dk.ehmi.terminology#1.0.1-draft",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomehmi.dk/ig/terminology/1.0.0-draft"
+          "url" : "http://medcomehmi.dk/ig/terminology/1.0.1-draft"
         }
       ]
     },
