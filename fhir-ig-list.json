@@ -5620,37 +5620,16 @@
       "language" : ["en"],
       "canonical" : "http://medcomfhir.dk/ig/core",
       "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-medcom-core",
+      "product" : ["fhir"],
       "editions" : [
         {
-          "name" : "Release",
-          "ig-version" : "2.3.0",
-          "package" : "medcom.fhir.dk.core#2.3.0",
+          "name" : "Release 3.x.x",
+          "ig-version" : "3.0.0",
+          "package" : "medcom.fhir.dk.core#3.0.0",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/core/2.3.0"
-        },
-        {
-          "name" : "Release",
-          "ig-version" : "2.2.0",
-          "package" : "medcom.fhir.dk.core#2.2.0",
-          "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/core/2.2.0"
-        },
-        {
-          "name" : "Release",
-          "ig-version" : "2.1.0",
-          "package" : "medcom.fhir.dk.core#2.1.0",
-          "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/core/2.1.0"
-        },
-        {
-          "name" : "Release",
-          "ig-version" : "2.0.0",
-          "package" : "medcom.fhir.dk.core#2.0.0",
-          "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/core/2.0.0"
+          "url" : "http://medcomfhir.dk/ig/core/3.0.0"
         }
-      ],
-      "product" : ["fhir"]
+      ]
     },
     {
       "name" : "DK MedCom Terminology",
