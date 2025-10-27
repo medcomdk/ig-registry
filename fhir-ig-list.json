@@ -5769,10 +5769,10 @@
       "editions" : [
         {
           "name" : "Release 4.x.x",
-          "ig-version" : "4.0.0-trial-use",
-          "package" : "medcom.fhir.dk.messaging#4.0.0-trial-use",
+          "ig-version" : "4.0.0",
+          "package" : "medcom.fhir.dk.messaging#4.0.0",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/messaging/4.0.0-trial-use"
+          "url" : "http://medcomfhir.dk/ig/messaging/4.0.0"
         }
       ]
     },
