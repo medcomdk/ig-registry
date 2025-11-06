@@ -8406,6 +8406,28 @@
           "url" : "http://medcomehmi.dk/ig/eds/1.0.1-draft"
         }
       ]
+    },
+    {
+      "name" : "CareCommunication Testscripts",
+      "category" : "MedCom CareCommunication Testscripts",
+      "npm-name" : "medcom.fhir.dk.carecommunicationtestscripts",
+      "description" : "Test scripts for CareCommunication v. 5.0",
+      "authority" : "",
+      "country" : "dk",
+      "history" : "http://medcomfhir.dk/ig/carecommunicationtestscripts/history.html",
+      "language" : ["en"],
+      "canonical" : "http://medcomfhir.dk/ig/carecommunicationtestscripts",
+      "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-medcom-carecommunication-testscripts",
+      "product" : ["fhir"],
+      "editions" : [
+        {
+          "name" : "Release 5.x.x",
+          "ig-version" : "5.0.0",
+          "package" : "medcom.fhir.dk.carecommunicationtestscripts#5.0.0",
+          "fhir-version" : ["4.0.1"],
+          "url" : "http://medcomfhir.dk/ig/carecommunicationtestscripts/5.0.0"
+        }
+      ]
     }
   ]
 }
