@@ -5623,11 +5623,11 @@
       "product" : ["fhir"],
       "editions" : [
         {
-          "name" : "Release 3.x.x",
-          "ig-version" : "3.0.1",
-          "package" : "medcom.fhir.dk.core#3.0.1",
+          "name" : "Release",
+          "ig-version" : "2.0.1",
+          "package" : "medcom.fhir.dk.core#2.0.1",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/core/3.0.1"
+          "url" : "http://medcomfhir.dk/ig/core/2.0.1"
         }
       ]
     },
