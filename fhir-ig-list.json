@@ -8399,11 +8399,11 @@
       "product" : ["fhir"],
       "editions" : [
         {
-          "name" : "Release 1.x.x Draft",
-          "ig-version" : "1.0.1-draft",
-          "package" : "dk.ehmi.eds#1.0.1-draft",
+          "name" : "Release 1.x.x",
+          "ig-version" : "1.0.2",
+          "package" : "dk.ehmi.eds#1.0.2",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomehmi.dk/ig/eds/1.0.1-draft"
+          "url" : "http://medcomehmi.dk/ig/eds/1.0.2"
         }
       ]
     },
