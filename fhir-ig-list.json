@@ -5747,10 +5747,10 @@
       "editions" : [
         {
           "name" : "Release 1.x.x",
-          "ig-version" : "1.2.0",
-          "package" : "medcom.fhir.dk.homecareobservation#1.2.0",
+          "ig-version" : "1.2.1",
+          "package" : "medcom.fhir.dk.homecareobservation#1.2.1",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/homecareobservation/1.2.0"
+          "url" : "http://medcomfhir.dk/ig/homecareobservation/1.2.1"
         }
       ]
     },
