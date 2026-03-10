@@ -8415,6 +8415,28 @@
           "url" : "http://medcomfhir.dk/ig/ekg/1.0.2"
         }
       ]
+    },
+    {
+      "name" : "The DK MedCom Notes IG",
+      "category" : "MedCom Notes",
+      "npm-name" : "medcom.fhir.dk.notes",
+      "description" : "The DK MedCom Notes IG",
+      "authority" : "MedCom",
+      "country" : "dk",
+      "history" : "http://medcomfhir.dk/ig/notes/history.html",
+      "language" : ["en"],
+      "canonical" : "http://medcomfhir.dk/ig/notes",
+      "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-medcom-notes",
+      "product" : ["fhir"],
+      "editions" : [
+        {
+          "name" : "Release 1.x.x",
+          "ig-version" : "1.0.0",
+          "package" : "medcom.fhir.dk.notes#1.0.0",
+          "fhir-version" : ["4.0.1"],
+          "url" : "http://medcomfhir.dk/ig/notes/1.0.0"
+        }
+      ]
     }
   ]
 }
