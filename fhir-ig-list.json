@@ -8437,6 +8437,28 @@
           "url" : "http://medcomfhir.dk/ig/notes/1.0.0-trial-use"
         }
       ]
+    },
+    {
+      "name" : "DK MedCom XDS Documents",
+      "category" : "Infrastructure",
+      "npm-name" : "medcom.fhir.dk.xdsdocuments",
+      "description" : "Danish XDS Documents profiles consists of both the Documents themselves being FHIR Documents or Messages and their corresponding DocumentReferences",
+      "authority" : "MedCom",
+      "country" : "dk",
+      "history" : "http://medcomfhir.dk/ig/xdsdocuments/history.html",
+      "language" : ["en"],
+      "canonical" : "http://medcomfhir.dk/ig/xdsdocuments",
+      "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-medcom-xdsdocuments",
+      "product" : ["fhir"],
+      "editions" : [
+        {
+          "name" : "Drafts Draft",
+          "ig-version" : "0.1.0-homecareobservation-draft",
+          "package" : "medcom.fhir.dk.xdsdocuments#0.1.0-homecareobservation-draft",
+          "fhir-version" : ["4.0.1"],
+          "url" : "http://medcomfhir.dk/ig/xdsdocuments/0.1.0-homecareobservation-draft"
+        }
+      ]
     }
   ]
 }
