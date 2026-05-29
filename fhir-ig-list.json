@@ -8459,6 +8459,28 @@
           "url" : "http://medcomfhir.dk/ig/xdsdocuments/0.1.0-homecareobservation-draft-2"
         }
       ]
+    },
+    {
+      "name" : "Dk Terminology for XDS Metadata",
+      "category" : "MedCom Terminology for XDS Metadata",
+      "npm-name" : "medcom.fhir.dk.xdsmetadata",
+      "description" : "XDS metadata for document sharing in Denmark",
+      "authority" : "MedCom",
+      "country" : "dk",
+      "history" : "http://medcomfhir.dk/ig/xdsmetadata/history.html",
+      "language" : ["en"],
+      "canonical" : "http://medcomfhir.dk/ig/xdsmetadata",
+      "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-medcom-xds-metadata",
+      "product" : ["fhir"],
+      "editions" : [
+        {
+          "name" : "Trial Uses",
+          "ig-version" : "2.0.0-trial-use-1",
+          "package" : "medcom.fhir.dk.xdsmetadata#2.0.0-trial-use-1",
+          "fhir-version" : ["4.0.1"],
+          "url" : "http://medcomfhir.dk/ig/xdsmetadata/2.0.0-trial-use-1"
+        }
+      ]
     }
   ]
 }
