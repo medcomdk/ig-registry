@@ -8452,11 +8452,11 @@
       "product" : ["fhir"],
       "editions" : [
         {
-          "name" : "Drafts Draft",
-          "ig-version" : "0.1.0-homecareobservation-draft-2",
-          "package" : "medcom.fhir.dk.xdsdocuments#0.1.0-homecareobservation-draft-2",
+          "name" : "Trial Uses",
+          "ig-version" : "1.0.0-trial-use-1",
+          "package" : "medcom.fhir.dk.xdsdocuments#1.0.0-trial-use-1",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/xdsdocuments/0.1.0-homecareobservation-draft-2"
+          "url" : "http://medcomfhir.dk/ig/xdsdocuments/1.0.0-trial-use-1"
         }
       ]
     },
