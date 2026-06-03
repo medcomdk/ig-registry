@@ -5712,10 +5712,10 @@
       "editions" : [
         {
           "name" : "Release 1.x.x",
-          "ig-version" : "1.2.1",
-          "package" : "medcom.fhir.dk.homecareobservation#1.2.1",
+          "ig-version" : "1.2.2",
+          "package" : "medcom.fhir.dk.homecareobservation#1.2.2",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/homecareobservation/1.2.1"
+          "url" : "http://medcomfhir.dk/ig/homecareobservation/1.2.2"
         }
       ]
     },
