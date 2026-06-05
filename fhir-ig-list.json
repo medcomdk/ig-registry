@@ -5602,10 +5602,10 @@
       "editions" : [
         {
           "name" : "Release 5.x.x",
-          "ig-version" : "5.0.3",
-          "package" : "medcom.fhir.dk.carecommunication#5.0.3",
+          "ig-version" : "5.0.4",
+          "package" : "medcom.fhir.dk.carecommunication#5.0.4",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/carecommunication/5.0.3"
+          "url" : "http://medcomfhir.dk/ig/carecommunication/5.0.4"
         }
       ]
     },
