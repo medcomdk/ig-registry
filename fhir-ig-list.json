@@ -8453,10 +8453,10 @@
       "editions" : [
         {
           "name" : "Trial Uses",
-          "ig-version" : "1.0.0-trial-use-1",
-          "package" : "medcom.fhir.dk.xdsdocuments#1.0.0-trial-use-1",
+          "ig-version" : "1.0.0-trial-use-2",
+          "package" : "medcom.fhir.dk.xdsdocuments#1.0.0-trial-use-2",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomfhir.dk/ig/xdsdocuments/1.0.0-trial-use-1"
+          "url" : "http://medcomfhir.dk/ig/xdsdocuments/1.0.0-trial-use-2"
         }
       ]
     },
