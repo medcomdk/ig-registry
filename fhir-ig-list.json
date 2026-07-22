@@ -8321,10 +8321,10 @@
       "editions" : [
         {
           "name" : "Release 1.x.x",
-          "ig-version" : "1.1.0",
-          "package" : "dk.ehmi.terminology#1.1.0",
+          "ig-version" : "1.2.0",
+          "package" : "dk.ehmi.terminology#1.2.0",
           "fhir-version" : ["4.0.1"],
-          "url" : "http://medcomehmi.dk/ig/terminology/1.1.0"
+          "url" : "http://medcomehmi.dk/ig/terminology/1.2.0"
         }
       ]
     },
