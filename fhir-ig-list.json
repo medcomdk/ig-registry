@@ -7710,11 +7710,11 @@
     "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-ehmi-eer",
     "product" : ["fhir"],
     "editions" : [{
-      "name" : "Release 1.x.x Draft",
-      "ig-version" : "1.0.0-draft",
-      "package" : "dk.ehmi.eer#1.0.0-draft",
+      "name" : "Release 3.x.x",
+      "ig-version" : "3.0.0-trial-use-1",
+      "package" : "dk.ehmi.eer#3.0.0-trial-use-1",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://medcomehmi.dk/ig/eer/1.0.0-draft"
+      "url" : "http://medcomehmi.dk/ig/eer/3.0.0-trial-use-1"
     }]
   },
   {
