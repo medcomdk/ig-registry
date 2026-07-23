@@ -7836,5 +7836,25 @@
       "fhir-version" : ["4.0.1"],
       "url" : "http://medcomfhir.dk/ig/xdsmetadata/2.0.0-trial-use-1"
     }]
+  },
+  {
+    "name" : "DK EHMI Endpoint Register (EER) - Configurations",
+    "category" : "Administration",
+    "npm-name" : "dk.ehmi.eer-config",
+    "description" : "The EHMI Endpoint Register (EER) IG - Configurations for merge with incoming  from SOR",
+    "authority" : "MedCom",
+    "country" : "dk",
+    "history" : "http://medcomehmi.dk/ig/eer-config/history.html",
+    "language" : ["en"],
+    "canonical" : "http://medcomehmi.dk/ig/eer-config",
+    "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-ehmi-eer-config",
+    "product" : ["fhir"],
+    "editions" : [{
+      "name" : "Release 2.x.x",
+      "ig-version" : "2.0.0-trial-use-1",
+      "package" : "dk.ehmi.eer-config#2.0.0-trial-use-1",
+      "fhir-version" : ["4.0.1"],
+      "url" : "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-1"
+    }]
   }]
 }
