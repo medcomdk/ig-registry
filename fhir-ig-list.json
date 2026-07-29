@@ -7851,10 +7851,10 @@
     "product" : ["fhir"],
     "editions" : [{
       "name" : "Release 2.x.x",
-      "ig-version" : "2.0.0-trial-use-1",
-      "package" : "dk.ehmi.eer-config#2.0.0-trial-use-1",
+      "ig-version" : "2.0.0-trial-use-2",
+      "package" : "dk.ehmi.eer-config#2.0.0-trial-use-2",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-1"
+      "url" : "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-2"
     }]
   }]
 }
