@@ -7856,5 +7856,25 @@
       "fhir-version" : ["4.0.1"],
       "url" : "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-2"
     }]
+  },
+  {
+    "name" : "EHMI Addressing Service (EAS)",
+    "category" : "Frameworks",
+    "npm-name" : "dk.ehmi.eas",
+    "description" : "The EHMI Addressing Service (EAS)",
+    "authority" : "MedCom",
+    "country" : "dk",
+    "history" : "http://medcomehmi.dk/ig/eas/history.html",
+    "language" : ["en"],
+    "canonical" : "http://medcomehmi.dk/ig/eas",
+    "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-ehmi-eas",
+    "product" : ["fhir"],
+    "editions" : [{
+      "name" : "Release 2.x.x",
+      "ig-version" : "2.0.0",
+      "package" : "dk.ehmi.eas#2.0.0",
+      "fhir-version" : ["4.0.1"],
+      "url" : "http://medcomehmi.dk/ig/eas/2.0.0"
+    }]
   }]
 }
