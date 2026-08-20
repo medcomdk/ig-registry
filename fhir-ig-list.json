@@ -7850,11 +7850,11 @@
     "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-ehmi-eer-config",
     "product" : ["fhir"],
     "editions" : [{
-      "name" : "Release 2.x.x",
-      "ig-version" : "2.0.0-trial-use-2",
-      "package" : "dk.ehmi.eer-config#2.0.0-trial-use-2",
+      "name" : "Release 3.x.x",
+      "ig-version" : "3.0.0-qa-environment-1",
+      "package" : "dk.ehmi.eer-config#3.0.0-qa-environment-1",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://medcomehmi.dk/ig/eer-config/2.0.0-trial-use-2"
+      "url" : "http://medcomehmi.dk/ig/eer-config/3.0.0-qa-environment-1"
     }]
   },
   {
