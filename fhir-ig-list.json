@@ -7851,10 +7851,10 @@
     "product" : ["fhir"],
     "editions" : [{
       "name" : "Release 3.x.x",
-      "ig-version" : "3.0.0-qa-environment-1",
-      "package" : "dk.ehmi.eer-config#3.0.0-qa-environment-1",
+      "ig-version" : "3.0.0-prod-environment-1",
+      "package" : "dk.ehmi.eer-config#3.0.0-prod-environment-1",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://medcomehmi.dk/ig/eer-config/3.0.0-qa-environment-1"
+      "url" : "http://medcomehmi.dk/ig/eer-config/3.0.0-prod-environment-1"
     }]
   },
   {
