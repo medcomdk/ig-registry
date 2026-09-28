@@ -7668,13 +7668,16 @@
     "language" : ["en"],
     "canonical" : "http://medcomfhir.dk/ig/homecareobservationtestscripts",
     "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-medcom-homecareobservation-testscripts",
+    "withdrawnReason" : "This implementation guide has been withdrawn and should no longer be used.",
     "product" : ["fhir"],
+    "withdrawn" : true,
+    "withDrawalDate" : "2026-09-28",
     "editions" : [{
-      "name" : "Release 1.x.x Draft",
-      "ig-version" : "1.0.0-draft",
-      "package" : "medcom.fhir.dk.homecareobservationtestscripts#1.0.0-draft",
+      "name" : "Release 1.x.x Withdrawn",
+      "ig-version" : "1.0.0-withdrawal",
+      "package" : "medcom.fhir.dk.homecareobservationtestscripts#1.0.0-withdrawal",
       "fhir-version" : ["4.0.1"],
-      "url" : "http://medcomfhir.dk/ig/homecareobservationtestscripts/1.0.0-draft"
+      "url" : "http://medcomfhir.dk/ig/homecareobservationtestscripts/1.0.0-withdrawal"
     }]
   },
   {
