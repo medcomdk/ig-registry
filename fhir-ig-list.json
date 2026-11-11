@@ -7879,5 +7879,25 @@
       "fhir-version" : ["4.0.1"],
       "url" : "http://medcomehmi.dk/ig/eas/2.0.0"
     }]
+  },
+  {
+    "name" : "DK EHMI SBDH IG",
+    "category" : "Infrastructure",
+    "npm-name" : "dk.ehmi.sbdh",
+    "description" : "The DK EHMI SBDH IG",
+    "authority" : "MedCom",
+    "country" : "dk",
+    "history" : "http://medcomehmi.dk/ig/sbdh/history.html",
+    "language" : ["en"],
+    "canonical" : "http://medcomehmi.dk/ig/sbdh",
+    "ci-build" : "http://build.fhir.org/ig/medcomdk/dk-ehmi-sbdh",
+    "product" : ["fhir"],
+    "editions" : [{
+      "name" : "Release 2.x.x",
+      "ig-version" : "2.0.2",
+      "package" : "dk.ehmi.sbdh#2.0.2",
+      "fhir-version" : ["4.0.1"],
+      "url" : "http://medcomehmi.dk/ig/sbdh/2.0.2"
+    }]
   }]
 }
